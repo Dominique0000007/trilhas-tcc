@@ -1,0 +1,22 @@
+:root {
+    /* Cores */
+    --cor-primaria: #333;
+    --cor-secundaria: #444;
+    --cor-texto: #fff;
+    --cor-destaque: #ff5722;
+
+    /* Fontes */
+    --fonte-principal: 'Arial', sans-serif;
+    --tamanho-fonte-pequeno: 14px;
+    --tamanho-fonte-medio: 16px;
+    --tamanho-fonte-grande: 24px;
+
+    /* Espaçamentos */
+    --espacamento-pequeno: 10px;
+    --espacamento-medio: 20px;
+    --espacamento-grande: 30px;
+
+    /* Bordas */
+    --borda-radius: 5px;
+    --borda-espessura: 2px;
+}
